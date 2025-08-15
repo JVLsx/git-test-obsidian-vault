@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interface.md",
+                "file": "Roteiro Setakaverso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interface"
+              "title": "Roteiro Setakaverso"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interface.md",
+                "file": "Roteiro Setakaverso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para interface"
+              "title": "Links inversos para Roteiro Setakaverso"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interface.md",
+                "file": "Roteiro Setakaverso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para interface"
+              "title": "Links de saída para Roteiro Setakaverso"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interface.md",
+                "file": "Roteiro Setakaverso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de interface"
+              "title": "Sumário de Roteiro Setakaverso"
             }
           },
           {
@@ -217,12 +217,12 @@
   },
   "active": "d97c8dc135f7e4da",
   "lastOpenFiles": [
+    "interface.md",
     "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "Roteiro Setakaverso.md",
     "Sem título.md",
     "Por que gostamos de jogos dificeis.md",
     "estruturas de roteiro e ideias.md",
-    "interface.md",
     "Por que nós gostamos de jogos difíceis.md",
     "Roteiro Setakaver(so).md",
     "roteiro com comentários de edição.md",
