@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interface.md",
+                "file": "estruturas de roteiro e ideias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interface"
+              "title": "estruturas de roteiro e ideias"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interface.md",
+                "file": "estruturas de roteiro e ideias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para interface"
+              "title": "Links inversos para estruturas de roteiro e ideias"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interface.md",
+                "file": "estruturas de roteiro e ideias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para interface"
+              "title": "Links de saída para estruturas de roteiro e ideias"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interface.md",
+                "file": "estruturas de roteiro e ideias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de interface"
+              "title": "Sumário de estruturas de roteiro e ideias"
             }
           },
           {
@@ -201,13 +201,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94dfe683e28b7670",
+  "active": "07e94ed2ef19099b",
   "lastOpenFiles": [
+    "interface.md",
     "estruturas de roteiro e ideias.md",
     "Roteiro Setakaverso.md",
     "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "Por que gostamos de jogos dificeis.md",
-    "interface.md",
     "Por que nós gostamos de jogos difíceis.md",
     "Roteiro Setakaver(so).md",
     "roteiro com comentários de edição.md",
