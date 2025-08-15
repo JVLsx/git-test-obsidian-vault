@@ -25,14 +25,14 @@
             "id": "b4c8c26be65fa1c6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Por que gostamos de jogos dificeis.md",
-                "bFile": "Por que gostamos de jogos dificeis.md",
-                "aRef": ""
+                "file": "Por que gostamos de jogos dificeis (prototipo).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Por que gostamos de jogos dificeis"
+              "icon": "lucide-file",
+              "title": "Por que gostamos de jogos dificeis (prototipo)"
             }
           }
         ],
