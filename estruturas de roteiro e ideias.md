@@ -2,18 +2,6 @@ essa nota tem como propósito servir como um text dump onde todas as ideias, est
 
 (ele será incluido no gitignore)
 
-eu acho mais fácil visualizar a ideia de forma linear
-na minha cabeça, é mais simples se vc escreve um trecho do roteiro, e dps vc em paralelo, escreve COMO aquilo vai ser visualizado.
+essa branch é a main
 
-por exemplo.. pra uma pegada mais satírica ou comédia
-
-```js
-[...] Pense no github como um puteiro clonando prostitutas [...]
-(nesta parte do vídeo, quero que apareça uma foto do bob esponja cafetão no meio da tela, num fade-in e com o simbolo do github na cara dele)
-```
-
-PRONTO! esse tipo de estrutura de roteiro é fácil, vc consegue estruturar um roteiro pra criar o vídeo encima, e dps consegue dar vida ao produto final
-
-fazer o que
-
-pra mim é mais fácil criar um roteiro paralelo com comentários kkkk
+como ve o historico de versão?
