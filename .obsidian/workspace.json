@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roteiros/Por que nós gostamos de jogos difíceis.md",
+                "file": "Por que nós gostamos de jogos difíceis.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiros/Por que nós gostamos de jogos difíceis.md",
+                "file": "Por que nós gostamos de jogos difíceis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiros/Por que nós gostamos de jogos difíceis.md",
+                "file": "Por que nós gostamos de jogos difíceis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiros/Por que nós gostamos de jogos difíceis.md",
+                "file": "Por que nós gostamos de jogos difíceis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cfbf6e12b7c749f",
+  "active": "0627066c85da315a",
   "lastOpenFiles": [
-    "Roteiros/Por que nós gostamos de jogos difíceis.md",
+    "Por que nós gostamos de jogos difíceis.md",
     "Bem-vindo.md",
     "Roteiros"
   ]
