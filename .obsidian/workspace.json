@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interface.md",
+                "file": "Por que gostamos de jogos dificeis (prototipo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interface"
+              "title": "Por que gostamos de jogos dificeis (prototipo)"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Por que gostamos de jogos dificeis.md",
+                "file": "Por que gostamos de jogos dificeis (prototipo).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Por que gostamos de jogos dificeis"
+              "title": "Sumário de Por que gostamos de jogos dificeis (prototipo)"
             }
           },
           {
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -229,13 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "133b7061bc3f744e",
+  "active": "dcd9a141590897b5",
   "lastOpenFiles": [
     "Por que gostamos de jogos dificeis.md",
+    "interface.md",
     "Por que gostamos de jogos dificeis (prototipo).md",
     "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "estruturas de roteiro e ideias.md",
-    "interface.md",
     "Roteiro Setakaverso.md",
     "Sem título 1.md",
     "Sem título.md",
