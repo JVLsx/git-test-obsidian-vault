@@ -36,7 +36,7 @@ Mas é claro, nem sempre é na mecânica que pode morar o possível problema de 
 
 E é na forma em como o jogo é apresentado e introduzido a quem joga que o faz potencialmente desafiador, logo, um jogo "difícil". 
 Não introduzindo, ou até omitindo informações importantes sobre a mecânica do jogo ou o que você tem que fazer, cria um cenário onde você precisa aprender enquanto joga, e pra muitas pessoas isso pode ser desconfortável, principalmente difícil se aquele jogo for totalmente distinto da maioria dos jogos em que essa pessoa está acostumada.
-Sempre deixando claro que nem todos os jogos que já existiam antes da popularização de gêneros e subgêneros de jogos que utilizam da falta de elementos padrões de jogos para enriquecer a experiência, necessariamente tinham o intuito de dificultar as coisas, mas sim porque visavam um público diferente, ou não enxergavam que a omissão de alguma informação pudesse causar transtornos na jogatina.
+Sempre deixando claro que nem todos os jogos que já existiam antes da popularização desse tipo de jogo que utiliza de um padrão de elementos para enriquecer a experiência, necessariamente tinham o intuito de dificultar as coisas, mas sim porque queriam dar certa liberdade aos jogadores, ou não enxergavam que a omissão de alguma informação pudesse causar transtornos na jogatina.
 
 (explicar aqui elementos padrões como UI, bussola, mapa, etc)
 
