@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Por que gostamos de jogos dificeis.md",
+                "file": "Por que gostamos de jogos dificeis (prototipo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Por que gostamos de jogos dificeis"
+              "title": "Por que gostamos de jogos dificeis (prototipo)"
             }
           }
         ],
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Por que gostamos de jogos dificeis.md",
+                "file": "Por que gostamos de jogos dificeis (prototipo).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Por que gostamos de jogos dificeis"
+              "title": "Sumário de Por que gostamos de jogos dificeis (prototipo)"
             }
           },
           {
@@ -245,8 +245,8 @@
   },
   "active": "a706f32f9a1095f3",
   "lastOpenFiles": [
-    "Por que gostamos de jogos dificeis (prototipo).md",
     "Por que gostamos de jogos dificeis.md",
+    "Por que gostamos de jogos dificeis (prototipo).md",
     "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "Sem título.md",
     "interface.md",

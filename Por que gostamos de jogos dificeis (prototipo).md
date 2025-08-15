@@ -4,7 +4,7 @@
 
 ---
 
-Desde que conhecemos o mundo dos jogos, vemos que a dificuldade sempre é mostrada: Fácil, Normal e Difícil. Quando vemos as opções de dificuldade temos a tendência de escolher o normal já que é o padrão do jogo mas, quando esse jogo não tem uma seleção de dificuldade e ele parece que está quase impossível de se jogar? Mas se por algum acaso, essa sensação de estar jogando algo difícil parecer prazerosa? Então, eu decidi falar um pouco da minha experiência em alguns jogos que são contra intuitivos para jogadores e, procurar por quê a nossa psique sente satisfação de concluir uma tarefa complicada.
+Desde que conhecemos o mundo dos jogos, vemos que a dificuldade sempre é mostrada: Fácil, Normal e Difícil. Quando vemos as opções de dificuldade temos a tendência de escolher o normal já que é o padrão do jogo, mas quando esse jogo não tem uma seleção de dificuldade e ele parece que está quase impossível de se jogar? Mas se por algum acaso, essa sensação de estar jogando algo difícil parecer prazerosa? Então, eu decidi falar um pouco da minha experiência em alguns jogos que são contra intuitivos para jogadores e, procurar por quê a nossa psique sente satisfação de concluir uma tarefa complicada.
 
 - Dark Souls;
 
