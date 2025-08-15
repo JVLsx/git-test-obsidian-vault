@@ -4,4 +4,4 @@ type command
 action Git: Open history view
 ```
 
-alteração 
+OLHE SÓ A MÁGICA!!!!!! TA VENDO?
