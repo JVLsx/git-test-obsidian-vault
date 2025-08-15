@@ -2,14 +2,3 @@ essa nota tem como propósito servir como um text dump onde todas as ideias, est
 
 (ele será incluido no gitignore)
 
-````
-```button
-name Ver histórico de edição
-type command
-action Log Template Note
-templater true
-```
-````
-
-calma
-sei
