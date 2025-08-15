@@ -14,4 +14,6 @@ por exemplo.. pra uma pegada mais satírica ou comédia
 
 PRONTO! esse tipo de estrutura de roteiro é fácil, vc consegue estruturar um roteiro pra criar o vídeo encima, e dps consegue dar vida ao produto final
 
-eu achei quy vc estivesse falando do mapa mental daqui e nao dos cards
+fazer o que
+
+pra mim é mais fácil criar um roteiro paralelo com comentários kkkk
