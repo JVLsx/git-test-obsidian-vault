@@ -20,4 +20,12 @@ Mas antes de tudo, devemos saber o que necessariamente é um jogo difícil e um 
 
 Acho que o melhor exemplo pathologic 2, o jogo é extremamente punitivo e mostra na sua cara que ele não vai te ajudar e suas forças irão ser inúteis, pois todos os “personagens importantes” vão morrer porque você não soube tomar cuidado, como mostrar que a peste vai te sacanear, as escolhas são definitivas na run e por aí vai. 
 
+<<<<<<< HEAD:Por que gostamos de jogos dificeis.md
 Agora jogos fácies é simples de mostrar como é: dicas mostradas na tela em todo momento, o objetivo sendo exposto na tela, conversas entre personagens muito expositivos, a famosa tinta amarela para expor onde é pra ir ou pegar item, o mapa e o hud que coloca todas as informações na sua cara e por aí vai. Essas coisas são muito mais comum do que aparenta ser como Mario 64 e a conversa com os NPCs que indicam através do diálogo como os botões servem e pra que servem em determinados objetos,
+=======
+Agora jogos fácies é simples de mostrar como é: dicas mostradas na tela em todo momento, o objetivo sendo exposto na tela, conversas entre personagens muito expositivos, a famosa tinta amarela para expor onde é pra ir ou pegar item, o mapa e o hud que coloca todas as informações na sua cara e por aí vai. Essas coisas são muito mais comum do que aparenta ser como Mario 64 e a conversa com os NPCs que indicam através do diálogo como os botões servem e pra que servem em determinados objetos,
+
+essa é uma alteração com propósitos de verificação de branch
+essa é uma alteração com propósitos de sincronização
+essa é uma alteração feita com propósitos de testes de sincronização com colaboradores
+>>>>>>> 27aaa66d016ad7ef291b9e36b267fbb0f7583335:Por que nós gostamos de jogos difíceis.md
