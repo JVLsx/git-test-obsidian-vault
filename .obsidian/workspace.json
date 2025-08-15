@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Por que gostamos de jogos dificeis"
             }
+          },
+          {
+            "id": "b4c8c26be65fa1c6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Por que gostamos de jogos dificeis.md",
+                "bFile": "Por que gostamos de jogos dificeis.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Por que gostamos de jogos dificeis"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33fd037823d972e2",
+  "active": "b4c8c26be65fa1c6",
   "lastOpenFiles": [
-    "Por que gostamos de jogos dificeis 1.md",
     "Por que gostamos de jogos dificeis.md",
+    "Por que gostamos de jogos dificeis (prototipo).md",
+    "Sem título.md",
     "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "estruturas de roteiro e ideias.md",
     "Por que nós gostamos de jogos difíceis.md",
     "interface.md",
-    "Sem título.md",
     "Roteiro Setakaverso.md",
     "conflict-files-obsidian-git.md",
     "Roteiros/Por que nós gostamos de jogos difíceis.md",
