@@ -171,9 +171,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "94dfe683e28b7670",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,11 +203,11 @@
   },
   "active": "07e94ed2ef19099b",
   "lastOpenFiles": [
-    "Roteiro Setakaverso.md",
     "Por que gostamos de jogos dificeis.md",
+    "Roteiro Setakaverso.md",
+    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "estruturas de roteiro e ideias.md",
     "Por que nós gostamos de jogos difíceis.md",
-    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "Roteiro Setakaver(so).md",
     "roteiro com comentários de edição.md",
     "Sem título.canvas",

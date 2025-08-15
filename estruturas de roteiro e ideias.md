@@ -2,6 +2,14 @@ essa nota tem como propósito servir como um text dump onde todas as ideias, est
 
 (ele será incluido no gitignore)
 
-essa branch é a main
+````
+```button
+name Ver histórico de edição
+type command
+action Log Template Note
+templater true
+```
+````
 
-como ve o historico de versão?
+calma
+sei
