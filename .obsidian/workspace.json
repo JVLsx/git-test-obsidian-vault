@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0ff653cd8bfa99",
+        "id": "867e4fce76fc2454",
         "type": "tabs",
         "children": [
           {
-            "id": "4cfbf6e12b7c749f",
+            "id": "33fd037823d972e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Por que nós gostamos de jogos difíceis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Por que nós gostamos de jogos difíceis"
             }
           }
         ]
@@ -176,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cfbf6e12b7c749f",
+  "active": "33fd037823d972e2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Por que nós gostamos de jogos difíceis.md",
     "Roteiros/Por que nós gostamos de jogos difíceis.md",
     "Bem-vindo.md",
     "Roteiros"
