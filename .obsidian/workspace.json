@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Por que gostamos de jogos dificeis.md",
+                "file": "interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Por que gostamos de jogos dificeis"
+              "title": "interface"
             }
           }
         ],
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -231,14 +231,14 @@
   },
   "active": "133b7061bc3f744e",
   "lastOpenFiles": [
-    "Por que gostamos de jogos dificeis (prototipo).md",
     "Por que gostamos de jogos dificeis.md",
+    "Por que gostamos de jogos dificeis (prototipo).md",
+    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
+    "estruturas de roteiro e ideias.md",
     "interface.md",
     "Roteiro Setakaverso.md",
     "Sem título 1.md",
-    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
     "Sem título.md",
-    "estruturas de roteiro e ideias.md",
     "Por que nós gostamos de jogos difíceis.md",
     "Roteiro Setakaver(so).md",
     "roteiro com comentários de edição.md",
