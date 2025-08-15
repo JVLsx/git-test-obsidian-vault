@@ -3,3 +3,5 @@ essa nota tem como propósito servir como um text dump onde todas as ideias, est
 (ele será incluido no gitignore)
 
 meu deus vai fuder tudo
+
+tira uma print pra mim
