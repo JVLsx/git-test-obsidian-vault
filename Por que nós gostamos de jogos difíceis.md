@@ -24,3 +24,4 @@ Agora jogos fácies é simples de mostrar como é: dicas mostradas na tela em to
 
 essa é uma alteração com propósitos de verificação de branch
 essa é uma alteração com propósitos de sincronização
+agr eu vou tentar dar pull aqui
