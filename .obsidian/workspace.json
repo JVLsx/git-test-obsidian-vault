@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Por que gostamos de jogos dificeis (prototipo).md",
+                "file": "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Por que gostamos de jogos dificeis (prototipo)"
+              "title": "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -195,12 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c9c48242ce1a9a9",
+  "active": "dcd9a141590897b5",
   "lastOpenFiles": [
     "Sem título.md",
-    "Por que gostamos de jogos dificeis (prototipo).md",
-    "Por que gostamos de jogos dificeis.md",
     "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
+    "Por que gostamos de jogos dificeis.md",
+    "Por que gostamos de jogos dificeis (prototipo).md",
     "estruturas de roteiro e ideias.md",
     "Por que nós gostamos de jogos difíceis.md",
     "interface.md",
