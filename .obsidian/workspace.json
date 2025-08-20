@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Por que gostamos de jogos dificeis (prototipo).md",
+                "file": "Por que gostamos de jogos dificeis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Por que gostamos de jogos dificeis (prototipo)"
+              "title": "Sumário de Por que gostamos de jogos dificeis"
             }
           },
           {
@@ -247,6 +247,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -259,11 +260,11 @@
   },
   "active": "d7d8e3c52ab79ada",
   "lastOpenFiles": [
-    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
-    "Sem título 1.md",
-    "Por que gostamos de jogos dificeis (prototipo).md",
     "Por que gostamos de jogos dificeis.md",
     "Sem título.md",
+    "Por que gostamos de jogos dificeis (prototipo).md",
+    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
+    "Sem título 1.md",
     "interface.md",
     "estruturas de roteiro e ideias.md",
     "Roteiro Setakaverso.md",
