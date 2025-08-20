@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
+                "file": "interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO"
+              "title": "interface"
             }
           }
         ],
@@ -196,15 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcd9a141590897b5",
+  "active": "0c9c48242ce1a9a9",
   "lastOpenFiles": [
-    "Sem título.md",
-    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
-    "Por que gostamos de jogos dificeis.md",
-    "Por que gostamos de jogos dificeis (prototipo).md",
     "estruturas de roteiro e ideias.md",
-    "Por que nós gostamos de jogos difíceis.md",
     "interface.md",
+    "Por que gostamos de jogos dificeis (prototipo).md",
+    "Sem título 2.md",
+    "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
+    "Sem título 1.md",
+    "Sem título.md",
+    "Por que gostamos de jogos dificeis.md",
+    "Por que nós gostamos de jogos difíceis.md",
     "Roteiro Setakaverso.md",
     "conflict-files-obsidian-git.md",
     "Roteiros/Por que nós gostamos de jogos difíceis.md",
