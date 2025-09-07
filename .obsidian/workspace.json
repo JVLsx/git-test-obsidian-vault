@@ -86,9 +86,51 @@
               "icon": "lucide-file",
               "title": "Por que gostamos de jogos dificeis (prototipo)"
             }
+          },
+          {
+            "id": "0e61e8d630e051ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Por que gostamos de jogos dificeis (prototipo).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Por que gostamos de jogos dificeis (prototipo)"
+            }
+          },
+          {
+            "id": "408bbefc7c266230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Por que gostamos de jogos dificies (protótipo 1.0).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Por que gostamos de jogos dificies (protótipo 1.0)"
+            }
+          },
+          {
+            "id": "9340693ef98be8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -258,21 +300,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7d8e3c52ab79ada",
+  "active": "9340693ef98be8eb",
   "lastOpenFiles": [
-    "Por que gostamos de jogos dificeis.md",
-    "Sem título.md",
+    "Por que gostamos de jogos dificies (protótipo 1.0).md",
+    "conflict-files-obsidian-git.md",
     "Por que gostamos de jogos dificeis (prototipo).md",
     "ROTEIRO COM COMENTÁRIOS DE EDIÇÃO.md",
-    "Sem título 1.md",
-    "interface.md",
     "estruturas de roteiro e ideias.md",
+    "interface.md",
+    "Sem título 2.md",
+    "Por que gostamos de jogos dificeis.md",
+    "Sem título 1.md",
     "Roteiro Setakaverso.md",
     "Por que nós gostamos de jogos difíceis.md",
     "Roteiro Setakaver(so).md",
     "roteiro com comentários de edição.md",
     "Sem título.canvas",
-    "conflict-files-obsidian-git.md",
     "Bem-vindo.md",
     "Roteiros"
   ]
