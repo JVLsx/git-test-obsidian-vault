@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"83dc7f9d6602b2de","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"ESTRUTURA DO VÍDEO"},
+		{"id":"050648900670eb59","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Estrutura do Video\n"},
+		{"id":"0c0981ff0682b9d0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Estrutura do vídeo"},
+		{"id":"30055642d902737d","x":-125,"y":334,"width":250,"height":60,"type":"text","text":"DEAD CELLS"},
+		{"id":"0161f998907aecd0","x":-125,"y":214,"width":250,"height":60,"type":"text","text":"DARK SOULS"},
+		{"id":"14835e82355f2b73","x":-125,"y":440,"width":250,"height":60,"type":"text","text":"PROJECT ZOMBOID"},
+		{"id":"a6c9de735069b9f8","x":-125,"y":560,"width":250,"height":60,"type":"text","text":"ESTUDOS CIENTÍFICOS"},
+		{"id":"6727d0eb879176aa","x":-125,"y":680,"width":250,"height":60,"type":"text","text":"CONCLUSÃO"},
+		{"id":"726da8c663730d81","x":-125,"y":100,"width":250,"height":60,"type":"text","text":"INTRODUÇÃO"},
+		{"id":"972eab1df6bc791a","x":-171,"y":-160,"width":342,"height":72,"type":"text","text":"JOGO COM POUCA INFORMAÇÃO E NÃO INVASIVA"}
+	],
+	"edges":[
+		{"id":"9bf4b602fd5798b3","fromNode":"0c0981ff0682b9d0","fromSide":"bottom","toNode":"726da8c663730d81","toSide":"top"},
+		{"id":"37ae22b7a4f69069","fromNode":"726da8c663730d81","fromSide":"bottom","toNode":"0161f998907aecd0","toSide":"top"},
+		{"id":"2b7fe3b810e26488","fromNode":"0161f998907aecd0","fromSide":"bottom","toNode":"30055642d902737d","toSide":"top"},
+		{"id":"fede9aaa61984c4e","fromNode":"30055642d902737d","fromSide":"bottom","toNode":"14835e82355f2b73","toSide":"top"},
+		{"id":"f2a21d1d4526edb2","fromNode":"14835e82355f2b73","fromSide":"bottom","toNode":"a6c9de735069b9f8","toSide":"top"},
+		{"id":"955911a04c2f72a6","fromNode":"a6c9de735069b9f8","fromSide":"bottom","toNode":"6727d0eb879176aa","toSide":"top"},
+		{"id":"9c520978729f8688","fromNode":"0c0981ff0682b9d0","fromSide":"right","toNode":"14835e82355f2b73","toSide":"right"},
+		{"id":"2e0fd96988fc0409","fromNode":"14835e82355f2b73","fromSide":"left","toNode":"726da8c663730d81","toSide":"left"},
+		{"id":"609bc77b06156f82","fromNode":"726da8c663730d81","fromSide":"right","toNode":"30055642d902737d","toSide":"right"},
+		{"id":"eb00761e60032579","fromNode":"30055642d902737d","fromSide":"right","toNode":"0161f998907aecd0","toSide":"right"},
+		{"id":"f17da4308b224028","fromNode":"0161f998907aecd0","fromSide":"right","toNode":"a6c9de735069b9f8","toSide":"right"},
+		{"id":"be98abde361e17ce","fromNode":"a6c9de735069b9f8","fromSide":"left","toNode":"6727d0eb879176aa","toSide":"left"},
+		{"id":"483b93d2d7be4714","fromNode":"972eab1df6bc791a","fromSide":"bottom","toNode":"83dc7f9d6602b2de","toSide":"top"}
+	]
+}
